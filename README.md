@@ -195,7 +195,7 @@ Customer-Churn-Analysis/
 1. Clone the repository.
 
 ```bash
-git clone <repository-link>
+git clone <https://github.com/Mayankverma30/Customer-Churn-Analysis>
 ```
 
 2. Install required libraries.
