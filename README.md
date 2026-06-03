@@ -126,6 +126,8 @@ Designed an interactive dashboard featuring:
 
 ✔ Average Customer Tenure
 
+✔ Revenue Loss
+
 ### Visuals Included
 
 * Churn Overview
